@@ -1,6 +1,6 @@
 <?php
 
-$data['lang_rank'] = 'ลำดับ';
+$data['lang_rank'] = 'ລຳດັບ';
 $data['lang_managername'] = 'ชื่อผู้จัดการ';
 $data['lang_manager'] = 'ผู้จัดการ';
 $data['lang_tel'] = 'เบอร์โทร';
@@ -9,18 +9,18 @@ $data['lang_email'] = 'อีเมล์';
 $data['lang_usesystem'] = 'ใช้ระบบ';
 $data['lang_edit'] = 'แก้ไข';
 $data['lang_addmanager'] = 'เพิ่มผู้จัดการ';
-$data['lang_search'] = 'ค้นหา';
-$data['lang_searchlist'] = 'รายการค้นหา';
-$data['lang_searchresult'] = 'ผลการค้นหา';
+$data['lang_search'] = 'ຄົ້ນຫາ';
+$data['lang_searchlist'] = 'ລາຍການຄົ້ນຫາ';
+$data['lang_searchresult'] = 'ຜນການຄົ້ນຫາ';
 $data['lang_downloadexcel'] = 'ดาวน์โหลดตาราง Excel';
 
-$data['lang_password'] = 'รหัสผ่าน';
-$data['lang_newpassword'] = 'รหัสผ่านใหม่';
+$data['lang_password'] = 'ລະຫັດຜ່ານ';
+$data['lang_newpassword'] = 'ລະຫັດໃຫມ່';
 $data['lang_changepassword'] = 'เปลี่ยนรหัสผ่าน';
 $data['lang_passwordplz'] = 'กรุณากรอกรหัสผ่าน';
-$data['lang_login'] = 'ເຊ້າລະບບ';
-$data['lang_logout'] = 'ออกจากระบบ';
-$data['lang_save'] = 'บันทึก';
+$data['lang_login'] = 'ເຂົ້າລະບົບ';
+$data['lang_logout'] = 'ອອກລະບົບ';
+$data['lang_save'] = 'ບັນທຶກ';
 
 $data['lang_possystem'] = 'POS ระบบขายหน้าร้าน';
 $data['lang_foodsystem'] = 'FOOD ระบบร้านอาหาร';
@@ -34,9 +34,9 @@ $data['lang_plz'] = 'กรุณากรอกข้อมูลให้ค�
 
 $data['lang_staff'] = 'ພະນັກງານ';
 $data['lang_brand'] = 'ສາຂາ';
-$data['lang_brandname'] = 'ชื่อสาขา';
+$data['lang_brandname'] = 'ຊື່ສາຂາ';
 $data['lang_addbrand'] = 'เพิ่มสาขา';
-$data['lang_selectbrand'] = 'เลือกสาขา';
+$data['lang_selectbrand'] = 'ເລືອກສາຂາ';
 $data['lang_lookstock'] = 'ดูสินค้าในสต๊อก';
 $data['lang_salereportstaff'] = 'รายงานขาย พนักงาน';
 $data['lang_salereportbrand'] = 'รายงานขาย สาขา';
@@ -47,21 +47,21 @@ $data['lang_staffname'] = 'ชื่อพนักงาน';
 $data['lang_selectstaff'] = 'เลือก พนักงาน';
 $data['lang_plzselectstaff'] = 'กรุณาเลือก พนักงาน';
 
-$data['lang_address'] = 'ที่อยู่';
+$data['lang_address'] = 'ທີ่່ຍູ່';
 $data['lang_tax'] = 'เลขผู้เสียภาษี';
 
 
 $data['lang_selectbrandplz'] = 'กรุณาเลือก สาขา';
 $data['lang_searchproductname'] = 'ค้นหาจากชื่อสินค้า';
 $data['lang_searchproductnameorscan'] = 'ค้นหาจากชื่อสินค้า หรือ scan barcode';
-$data['lang_barcode'] = 'รหัสสินค้า';
-$data['lang_productname'] = 'ชื่อสินค้า';
+$data['lang_barcode'] = 'ລະຫັດສຶນຄ້າ';
+$data['lang_productname'] = 'ຊື່ສິນຄ້າ';
 
 $data['lang_category'] = 'หมวดหมู่';
 $data['lang_categoryname'] = 'ชื่อหมวดหมู่';
 $data['lang_selectcategory'] = 'เลือกหมวดหมู่';
 
-$data['lang_saleprice'] = 'ราคาขาย/บาท';
+$data['lang_saleprice'] = 'ລາຄາຂາຍ/ກີບ';
 $data['lang_discount'] = 'ส่วนลด/บาท';
 $data['lang_total'] = 'จำนวนคงเหลือ';
 $data['lang_estimatedrevenue'] = 'รายรับประมาณการ/บาท';
@@ -75,10 +75,10 @@ $data['lang_revenue'] = 'รายรับ/บาท';
 $data['lang_cost'] = 'ต้นทุน/บาท';
 $data['lang_profitlost'] = 'กำไร/ขาดทุน';
 $data['lang_roi'] = 'ROI';
-$data['lang_price'] = 'ราคา';
+$data['lang_price'] = 'ລາຄາ';
 
-$data['lang_all'] = 'รวม';
-$data['lang_allall'] = 'ทั้งหมด';
+$data['lang_all'] = 'ລວມ';
+$data['lang_allall'] = 'ທັ້ງຫມດ';
 
 $data['lang_returntotal'] = 'จำนวนการคืน';
 $data['lang_returnprice'] = 'คืนเงิน';
@@ -97,9 +97,9 @@ $data['lang_status'] = 'สถานะ';
 
 $data['lang_searchfoodname'] = 'ค้นหาชื่ออาหาร';
 
-$data['lang_show'] = 'แสดง';
+$data['lang_show'] = 'ສະແດງ';
 
-$data['lang_page'] = 'หน้า';
+$data['lang_page'] = 'ໜ້າ';
 
 $data['lang_saleready'] = 'พร้อมขาย';
 
@@ -120,7 +120,7 @@ $data['lang_roomcheckin'] = 'เช็คอินแล้ว';
 $data['lang_roomprice'] = 'ค่าห้อง';
 $data['lang_searchroomnameandcus'] = 'ค้นหาห้องพัก หรือ ชื่อลูกค้า';
 $data['lang_cus'] = 'ลูกค้า';
-$data['lang_cusname'] = 'ชื่อลูกค้า';
+$data['lang_cusname'] = 'ຊື່ລູກຄ້າ';
 $data['lang_numcus'] = 'จำนวนลูกค้า';
 
 $data['lang_rent'] = 'จอง';
@@ -134,7 +134,7 @@ $data['lang_foodtable'] = 'จัดโต๊ะ';
 $data['lang_foodreport'] = 'รายงานการขาย';
 
 
-$data['lang_index'] = 'หน้าแรก';
+$data['lang_index'] = 'ໜ້າແຮກ';
 
 $data['lang_foodtableblank'] = 'โต๊ะว่าง';
 $data['lang_foodorderwait'] = 'รอสั่งอาหาร';
@@ -148,11 +148,11 @@ $data['lang_foodgetmoney'] = 'รับเงิน';
 $data['lang_foodcustomersitdown'] = 'ลูกค้านั่งที่โต๊ะแล้ว';
 $data['lang_foodlistneed'] = 'รายการอาหารที่สั่ง';
 
-$data['lang_qty'] = 'จำนวน';
+$data['lang_qty'] = 'ຈຳນວນ';
 $data['lang_priceall'] = 'ราคารวม';
 $data['lang_foodblank'] = 'โต๊ะว่าง';
-$data['lang_delete'] = 'ลบ';
-$data['lang_close'] = 'ปิด';
+$data['lang_delete'] = 'ລົບ';
+$data['lang_close'] = 'ປິດ';
 
 $data['lang_selectlist'] = 'เลือกรายการ';
 
@@ -169,7 +169,7 @@ $data['lang_foodoutstock'] = 'อาหารหมด';
 $data['lang_manage'] = 'จัดการ';
 
 
-$data['lang_showdel'] = 'แสดงปุ่มลบ';
+$data['lang_showdel'] = 'ສະແດງປຸ່ມລົບ';
 
 $data['lang_link'] = 'ลิ้งค์';
 
@@ -188,13 +188,13 @@ $data['lang_rentcheckinout'] = 'จองห้องพัก / เช็คอ
 $data['lang_roommanage'] = 'จัดการห้องพัก';
 $data['lang_roomreport'] = 'รายงานเช่าห้องพัก';
 
-$data['lang_salepic'] = 'จอขายแบบรูปภาพ';
-$data['lang_salelist'] = 'จอขายแบบรายการ';
-$data['lang_returnproduct'] = 'คืนสินค้า';
-$data['lang_stockproduct'] = 'คลังสต๊อกสินค้า';
-$data['lang_cusandcontact'] = 'ลูกค้าและการติดต่อ';
-$data['lang_salereport'] = 'รายงานการขาย';
-$data['lang_salesetting'] = 'ตั้งค่าการขาย';
+$data['lang_salepic'] = 'ຈໍຂາຍມີຮູບ';
+$data['lang_salelist'] = 'ຈໍຂາຍລາຍຊື່';
+$data['lang_returnproduct'] = 'ຄືນສິນຄ້າ';
+$data['lang_stockproduct'] = 'ຄັງສິນຄ້າ';
+$data['lang_cusandcontact'] = 'ຊື່ລູກຄ້າແລະຕິດຕໍ່';
+$data['lang_salereport'] = 'ລາຍງານຂາຍ';
+$data['lang_salesetting'] = 'ຕັ້ງຄ່າການຂາຍ';
 $data['lang_emailmarketting'] = 'Email Marketing';
 
 $data['lang_settingdiscount'] = 'ตั้งค่าส่วนลด';
@@ -228,19 +228,19 @@ $data['lang_sendemail'] = 'ส่ง Email';
 $data['lang_waitsendemail'] = 'ระบบกำลังส่ง Email กรุณารอซักครู่ ';
 
 
-$data['lang_producthavepic'] = '--สินค้าที่มีรูปทั้งหมด--';
+$data['lang_producthavepic'] = '--ສິນຄ້າມີຮູບພາບ--';
 $data['lang_vat'] = 'vat';
-$data['lang_cannotfoundproduct'] = '* ไม่พบสินค้า';
+$data['lang_cannotfoundproduct'] = '* ບໍ່ພບສິນຄ້າ';
 $data['lang_enter'] = 'enter';
-$data['lang_getmoney'] = 'รับเงิน';
-$data['lang_getmoneyenter'] = 'รับเงิน(Enter)';
-$data['lang_pricesumvat'] = 'ราคารวม vat';
-$data['lang_currency'] = 'บาท';
+$data['lang_getmoney'] = 'ຮັບເງິນ';
+$data['lang_getmoneyenter'] = 'ຮັບເງິນ(Enter)';
+$data['lang_pricesumvat'] = 'ລາຄາລວມ vat';
+$data['lang_currency'] = 'ກີບ';
 
 $data['lang_addvat'] = 'เพิ่ม vat';
-$data['lang_summary'] = 'รวมเงิน';
-$data['lang_moneyfromcus'] = 'เงินจากลูกค้า';
-$data['lang_moneychange'] = 'เงินทอน';
+$data['lang_summary'] = 'ລວມເງິນ';
+$data['lang_moneyfromcus'] = 'ເງິນລູກຄ້າ';
+$data['lang_moneychange'] = 'ເງິນທອນ';
 
 $data['lang_ok'] = 'OK';
 $data['lang_billmini'] = 'ใบเสร็จอย่างย่อ';
@@ -257,14 +257,14 @@ $data['lang_print'] = 'ปริ้น';
 $data['lang_productservice'] = 'สินค้า/บริการ';
 
 $data['lang_sales'] = 'พนักงานขาย';
-$data['lang_day'] = 'วันที่';
-$data['lang_salelisttoday'] = 'รายการขายวันนี้';
+$data['lang_day'] = 'ວັນທີ';
+$data['lang_salelisttoday'] = 'ລາຍການຂາຍວັນນີ';
 
 $data['lang_pricesale'] = 'ราคาที่ซื้อ';
 $data['lang_pricesum'] = 'ราคาที่ซื้อรวม';
 
-$data['lang_productnum'] = 'จำนวนสินค้า';
-$data['lang_selectproduct'] = 'เลือกสินค้า';
+$data['lang_productnum'] = 'ຈຳນວນສິນຄ້າ';
+$data['lang_selectproduct'] = 'ເລືອກສິນຄ້າ';
 
 $data['lang_addproductlistplz'] = 'กรุณาเพิ่มรายการสินค้า';
 $data['lang_getmoneyplz'] = 'กรุณารับเงินจากลูกค้า';
@@ -318,30 +318,30 @@ $data['lang_productcategory'] = 'หมวดหมู่สินค้า';
 $data['lang_supplierstock'] = 'Supplier/ผู้ผลิต/เจ้าของสินค้า';
 $data['lang_productpagepic'] = 'หน้า Page แสดงรายการสินค้าที่มีรูปทั้งหมด';
 
-$data['lang_remark'] = 'หมายเหตุ';
+$data['lang_remark'] = 'ຫມາຍເຫດ';
 $data['lang_refnumber'] = 'รหัสอ้างอิง';
 $data['lang_fullscreen'] = 'จอใหญ่';
 
 $data['lang_costperunit'] = 'ต้นทุนต่อหน่วย';
 $data['lang_wherestore'] = 'ที่จัดเก็บ';
 $data['lang_unit'] = 'จำนวนหน่วย';
-$data['lang_allprice'] = 'รวมราคา';
+$data['lang_allprice'] = 'ລວມລາຄາ';
 
 $data['lang_productlistimport'] = 'รายการสินค้านำเข้า';
 
 $data['lang_importproductexcel'] = 'นำเข้ารายชื่อสินค้าจาก Excel';
 $data['lang_addproduct'] = '+ เพิ่มสินค้า';
-$data['lang_picproduct'] = 'รูปสินค้า';
+$data['lang_picproduct'] = 'ຮູບສິນຄ້າ';
 
 $data['lang_productlistfromexcel'] = 'รายการสินค้าจาก Excel .CSV';
 $data['lang_upload'] = 'อัฟโหลด';
 $data['lang_csvexsample'] = 'ตัวอย่างไฟล์ .CSV  UTF-8';
 
-$data['lang_pic'] = 'รูป';
-$data['lang_name'] = 'ชื่อ';
+$data['lang_pic'] = 'ຮູບ';
+$data['lang_name'] = 'ຊື່';
 
 
-$data['lang_cusnamelist'] = 'รายชื่อลูกค้า';
+$data['lang_cusnamelist'] = 'ລາຍຊື່ລູກຄ້າ';
 $data['lang_cuscontactlist'] = 'รายการติดต่อ';
 $data['lang_statsummary'] = 'สถิติโดยรวม';
 $data['lang_statcus'] = 'สถิติลูกค้า';
@@ -424,16 +424,16 @@ $data['lang_editreasonnotbuy'] = 'แก้ไขเหตุผลที่ไ�
 
 //login
 
-$data['lang_adminlogin'] = 'C2M ผู้บริหาร(Admin)';
-$data['lang_managelogin'] = 'C2M ผู้จัดการ';
-$data['lang_stafflogin'] = 'C2M พนักงาน';
+$data['lang_adminlogin'] = 'C2M ຜູ້ບໍລິຫານ(Admin)';
+$data['lang_managelogin'] = 'C2M ຜູ້ຈັດການ';
+$data['lang_stafflogin'] = 'C2M ພະນັກງານ';
 
 
 
-$data['lang_pagelogin'] = 'เข้าสู่ระบบ';
+$data['lang_pagelogin'] = 'ເຂົ້າລະບົບ';
 $data['lang_loginusername'] = 'User Name';
-$data['lang_loginpassword'] = 'รหัสผ่าน';
-$data['lang_loginemail'] = 'อีเมล์';
+$data['lang_loginpassword'] = 'ລະຫັດຜ່ານ';
+$data['lang_loginemail'] = 'ອີເມລ';
 
 
 $data['lang_cannotlogin'] = 'ไม่สามารถเข้าสู่ระบบได้! User Name หรือรหัสผ่านไม่ถูกต้อง';
