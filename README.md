@@ -17,6 +17,7 @@ Developer at Ubon,Thailand<br>
 Line id.pboonwang<br>
 WhatsApp +856 20 9808 5714<br>
 Thai phone.082-1328101<br>
-Lao phone.20 9808 5714
+Lao phone.20 9808 5714<br>
+<img src="https://github.com/pboonwang/c2m/blob/master/pakseSoft-pos-001.png">
 </center>
 
