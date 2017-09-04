@@ -19,5 +19,9 @@ WhatsApp +856 20 9808 5714<br>
 Thai phone.082-1328101<br>
 Lao phone.20 9808 5714<br>
 <img src="https://github.com/pboonwang/c2m/blob/master/pakseSoft-pos-001.png">
+
+4-9-60
+ใส่ระบบพนักงานในหน้าแรก(สำหรับผู้จัดการ)
+<img src="https://github.com/pboonwang/c2m/paksepos 4-9-60.png">
 </center>
 
