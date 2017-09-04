@@ -22,6 +22,6 @@ Lao phone.20 9808 5714<br>
 
 4-9-60
 ใส่ระบบพนักงานในหน้าแรก(สำหรับผู้จัดการ)
-<img src="https://github.com/pboonwang/c2m/paksepos 4-9-60.png">
+<img src="https://github.com/pboonwang/c2m/blob/master/paksepos%204-9-60.png">
 </center>
 
