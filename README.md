@@ -19,10 +19,11 @@ WhatsApp +856 20 9808 5714<br>
 Thai phone.082-1328101<br>
 Lao phone.20 9808 5714<br>
 <img src="https://github.com/pboonwang/c2m/blob/master/pakseSoft-pos-001.png">
-
+<br>
 4-9-60
 ใส่ระบบพนักงานในหน้าแรก(สำหรับผู้จัดการ)
 <img src="https://github.com/pboonwang/c2m/blob/master/paksepos%204-9-60.png">
+<br>
 ช่องใส่ส่วนลดยอดรวมบิล ลดได้ทั้งเป็นจำนวนเงิน และแบบเปอร์เซนต์
 <img src="https://github.com/pboonwang/c2m/blob/master/paksepos%20cancel%204-9-60.png">
 </center>
